@@ -69,10 +69,13 @@ x^2
 
 
 ```java
-θ~1~x~1~+θ~2~x~2~^2^+θ~3~x~3~^3^
+好像1只能typora才支持
+1.θ~1~x~1~+θ~2~x~2~^2^+θ~3~x~3~^3^
+2.x<sub>2</sub>    x<sup>2</sup>
 ```
 
 θ~1~x~1~+θ~2~x~2~^2^+θ~3~x~3~^3^
+x<sub>2</sub>    x<sup>2</sup>
 
 ---
 
@@ -92,7 +95,7 @@ x^2
 1.跟图片一样插入视频，但是只能是gif格式
 ![](https://gitee.com/turbo-studio/image/raw/master/image/20210215225951.gif)
 
-2.用html标签
+2.用html标签（这里是对的，只是用的本地路径）
 <video width="1000" height="500">     
     <source src="D:\Users\26422\DownloadsOfGoogle\wave.mp4" type="video/mp4">     
 </video>
@@ -109,6 +112,7 @@ x^2
 ## 插入音频
 
 ```java
+（这里是对的，只是用的本地路径）
 <audio>   
    <source src="D:\Users\26422\DownloadsOfGoogle\和ぬか - 寄り酔い.mp3" type="audio/mpeg">  
 </audio>
