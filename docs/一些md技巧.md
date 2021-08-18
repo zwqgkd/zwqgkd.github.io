@@ -96,12 +96,21 @@ x<sub>2</sub>    x<sup>2</sup>
 1.跟图片一样插入视频，但是只能是gif格式
 ![](https://gitee.com/turbo-studio/image/raw/master/image/20210215225951.gif)
 
-2.用html标签（这里是对的，只是用的本地路径）
+2.就用这个了，其他别用了，只有这个我的blog才看得见，其他都看不见卧槽。
+<iframe frameborder="0" src="https://v.qq.com/txp/iframe/player.html?vid=o3263y9ud2v" allowFullScreen="true" width="600" height="400"></iframe>
+
+3.用html标签（这里是对的，只是用的本地路径）
 <video width="1000" height="500">     
     <source src="D:\Users\26422\DownloadsOfGoogle\wave.mp4" type="video/mp4">     
 </video>
 
 ```
+
+### 2的属性
+
+![image-20210818131809806](C:\Users\26422\AppData\Roaming\Typora\typora-user-images\image-20210818131809806.png)
+
+### 3的属性，别看了，不用它
 
 ![image-20210818120801127](C:\Users\26422\AppData\Roaming\Typora\typora-user-images\image-20210818120801127.png)
 
