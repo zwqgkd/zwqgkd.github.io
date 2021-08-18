@@ -120,8 +120,9 @@ x<sub>2</sub>    x<sup>2</sup>
     <source src="D:\Users\26422\DownloadsOfGoogle\wave.mp4" type="video/mp4">     
 </video>
 <video width="1000" height="500">     
-    <source src="https://vd2.bdstatic.com/mda-mebhc4fqejhdbx87/fhd/cae_h264_nowatermark/1620855055979675790/mda-mebhc4fqejhdbx87.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1629263782-0-0-0285161dd3cac81539c593d41c80b983&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=3000160_1" type="video/mp4">     
+    <source src="//player.bilibili.com/player.html?aid=631890455&bvid=BV1Rb4y167rj&cid=378119258&page=1">     
 </video>
+
 <iframe src="//player.bilibili.com/player.html?aid=631890455&bvid=BV1Rb4y167rj&cid=378119258&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ---
