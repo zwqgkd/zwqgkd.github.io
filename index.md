@@ -8,3 +8,5 @@ md小技巧[docs/一些md技巧.md](docs/一些md技巧.md)
 
 - [失眠咯 2021/8/18](docs/diary/失眠.md)
 
+- [日记 2021/8/18](docs/diary/2021-8-18.md)
+
