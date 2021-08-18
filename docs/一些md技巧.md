@@ -1,0 +1,121 @@
+# 哈哈哈
+
+## 1.为啥
+
+### 1.1第一个小点
+
+```java
+import ...
+private void main(){
+    return 0;
+}
+```
+
+### 
+
+==大萨达==
+
+**打困困哒**
+
+*大一*
+
+***发顺丰***
+
+|   大赛   | 大萨达所 |      |      |      |      |
+| :------: | :------: | ---- | ---- | ---- | ---- |
+|  大萨达  |          |      |      |      |      |
+| 大萨达所 |          |      |      |      |      |
+| 奥术大师 |          |      |      |      |      |
+|          |          |      |      |      |      |
+|          |          |      |      |      |      |
+
+----
+
+
+
+1. DASDKJ 
+2. FJSKAJD
+3. SDAKSDJ
+
++ djsadjk
+  + 的讲撒的健康
+  + 大家啊上课的吉安市
+  + 的设计啊看得见
+    + djaskdj
+      + dasmkads
+        + dajkdj
+          + daskd
+
+打杰斯看就看
+
+x^2
+
+> jskcfjsdksdjkfjsd
+>
+> > > dj
+
+- dsad
+  - dhasjdk
+  - asjdhasj
+    - dasjdksd
+
+
+
+-------
+
+
+
+## 上标下标
+
+
+```java
+θ~1~x~1~+θ~2~x~2~^2^+θ~3~x~3~^3^
+```
+
+θ~1~x~1~+θ~2~x~2~^2^+θ~3~x~3~^3^
+
+---
+
+## 内部跳转
+
+```java
+[备注](#标题)
+```
+
+[跳转到哈哈哈标题](#哈哈哈)
+
+---
+
+## 插入视频
+
+```html
+1.跟图片一样插入视频，但是只能是gif格式
+![](https://gitee.com/turbo-studio/image/raw/master/image/20210215225951.gif)
+
+2.用html标签
+<video width="1000" height="500">     
+    <source src="D:\Users\26422\DownloadsOfGoogle\wave.mp4" type="video/mp4">     
+</video>
+
+```
+
+![image-20210818120801127](C:\Users\26422\AppData\Roaming\Typora\typora-user-images\image-20210818120801127.png)
+
+<video width="1000" height="500">     
+    <source src="D:\Users\26422\DownloadsOfGoogle\wave.mp4" type="video/mp4">     
+</video>
+---
+
+## 插入音频
+
+```java
+<audio>   
+   <source src="D:\Users\26422\DownloadsOfGoogle\和ぬか - 寄り酔い.mp3" type="audio/mpeg">  
+</audio>
+```
+
+![image-20210818121627215](C:\Users\26422\AppData\Roaming\Typora\typora-user-images\image-20210818121627215.png)
+
+<audio>   
+   <source src="D:\Users\26422\DownloadsOfGoogle\和ぬか - 寄り酔い.mp3" type="audio/mpeg">  
+</audio>
