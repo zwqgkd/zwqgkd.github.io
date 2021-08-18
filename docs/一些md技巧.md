@@ -1,3 +1,5 @@
+
+
 # 哈哈哈
 
 ## 1.为啥
@@ -120,7 +122,7 @@ x<sub>2</sub>    x<sup>2</sup>
 <video width="1000" height="500">     
     <source src="https://vd2.bdstatic.com/mda-mebhc4fqejhdbx87/fhd/cae_h264_nowatermark/1620855055979675790/mda-mebhc4fqejhdbx87.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1629263782-0-0-0285161dd3cac81539c593d41c80b983&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=3000160_1" type="video/mp4">     
 </video>
-<iframe frameborder="0" src="https://vd2.bdstatic.com/mda-mebhc4fqejhdbx87/fhd/cae_h264_nowatermark/1620855055979675790/mda-mebhc4fqejhdbx87.mp4?v_from_s=hkapp-haokan-tucheng&auth_key=1629263782-0-0-0285161dd3cac81539c593d41c80b983&bcevod_channel=searchbox_feed&pd=1&pt=3&abtest=3000160_1" allowFullScreen="true" width="600" height="400"></iframe>
+<iframe src="//player.bilibili.com/player.html?aid=631890455&bvid=BV1Rb4y167rj&cid=378119258&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 
 ---
 
@@ -149,6 +151,6 @@ x<sub>2</sub>    x<sup>2</sup>
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=1488737309&auto=1&height=66">
 </iframe>
 
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="http://dl.stream.qqmusic.qq.com/C400003sz2bi3bkCga.m4a?guid=3063433650&vkey=37AC1D10FC8723BB36433147F79634B41466F2C7E3B2C4F2CF6DA15B034A0CD88698F60FF930EFE74E60BA420FE0DCB562DD9C6F0E6CAFCA&uin=2642253423&fromtag=66">
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="https://c.y.qq.com/base/fcgi-bin/u?__=gNQ24Zb">
 </iframe>
 
