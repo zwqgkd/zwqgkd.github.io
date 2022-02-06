@@ -15,6 +15,9 @@
 - 计算机组成原理
 - 计算机网络
 
+**C++**
+- [vector](docs/pro/cpp/vector.md)
+
 ## 3. 其他
 
 学习一下别人的周刊[docs/周刊样板.md](docs/else/周刊样板.md)
